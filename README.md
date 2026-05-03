@@ -20,4 +20,5 @@ Here are some ideas to get you started:
 ### 📈 Activity & Stats
 <!-- This dynamically generates your language stats based on your public repos -->
 ![My GitHub stats](https://vercel.app)
+
 [![GitHub Streak](https://demolab.com)](https://git.io/streak-stats)
