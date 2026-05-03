@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 ### 📈 Activity & Stats
 <!-- This dynamically generates your language stats based on your public repos -->
-![Top Langs](https://vercel.app)
-<p align="left"><img src="https://skillicons.dev" /></p>
-<p align="left"><img src="https://vercel.app" alt="Techtana's GitHub Stats" /></p>
+![My GitHub stats](https://vercel.app)
