@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-# Hi, I'm Tech Tana 👋
 ### 🚀 Projects & Work
 - 🌐 **[Portfolio Website](https://techtana.github.io/)** - A deep dive into my journey, skills, and creative projects.
 - 🛠️ **Open Source** - I'm active in contributing to tools that streamline developer workflows.
